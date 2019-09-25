@@ -1,6 +1,7 @@
 +++
-title = "Install Jenkins-x on GKE"
+title = "Robohounds Project Management"
 type="slide"
+weight=1
 
 theme = "league"
 [revealOptions]
@@ -11,36 +12,38 @@ history= true
 center= true
 +++
 
-# Slide 1
+## Project Management
 
 ___
 
-## Slide 1.1
-
-- Turn off alarm
-- Get out of bed
-
+## What is Project Management
+The process of planning, organizing and communicating 
+- Goals
+- Tasks
+- Risks
 ___
 
-## Slide 1.2
+## Communicating
 
-- Eat eggs
-- Drink coffee
+- Kanban Board
+___
+
+## Kanban
+1970s: Japanese, literally ‘billboard, sign’.
 
 ---
 
-# Slide 2
+## Example
+
+![kanban](https://i.pinimg.com/originals/6c/ab/03/6cab03503c19161c1ca80c4c4e5224ea.png)
 
 ___
 
-## Slide 2.1
-
-- Eat spaghetti
-- Drink wine
+![kanban](https://kanbanize.com/wp-content/uploads/website-images/kanban-resources/software_kanban_board.png)
 
 ___
 
-## Slide 2.2
-
-- Get in bed
-- Count sheep
+## Workstreams.ai
+___
+## Kanban and Github
+https://www.youtube.com/watch?v=ff5cBkPg-bQ
